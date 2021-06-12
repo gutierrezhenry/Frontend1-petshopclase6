@@ -1,0 +1,566 @@
+/* Main */
+
+position: absolute;
+width: 1024px;
+height: 951px;
+left: 0px;
+top: 81px;
+
+
+
+/* Productos Destacados */
+
+position: absolute;
+width: 834px;
+height: 522px;
+left: 95px;
+top: 510px;
+
+
+
+/* pawprint 1 */
+
+position: absolute;
+width: 67px;
+height: 71px;
+left: calc(50% - 67px/2 + 0.5px);
+top: 510px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 12.59%;
+right: 19.85%;
+top: 41.79%;
+bottom: 6.35%;
+
+background: #F0A83E;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 74.34%;
+top: 25.57%;
+bottom: 46.28%;
+
+background: #F0A83E;
+
+
+/* Vector */
+
+position: absolute;
+left: 24.3%;
+right: 46.32%;
+top: 6.25%;
+bottom: 60.28%;
+
+background: #F0A83E;
+
+
+/* Vector */
+
+position: absolute;
+left: 55.51%;
+right: 17.11%;
+top: 14.11%;
+bottom: 55.55%;
+
+background: #F0A83E;
+
+
+/* Vector */
+
+position: absolute;
+left: 73.58%;
+right: 0%;
+top: 39.66%;
+bottom: 32.94%;
+
+background: #F0A83E;
+
+
+/* Cards */
+
+position: absolute;
+width: 834px;
+height: 312px;
+left: 95px;
+top: 720px;
+
+
+
+/* Huesito juguete */
+
+position: absolute;
+width: 265px;
+height: 312px;
+left: 664px;
+top: 720px;
+
+
+
+/* Rectangle 12 */
+
+position: absolute;
+width: 265px;
+height: 312px;
+left: 664px;
+top: 720px;
+
+background: #FBFAF6;
+
+
+/* Huesito */
+
+position: absolute;
+width: 265px;
+height: 268.86px;
+left: 664px;
+top: 720px;
+
+background: url(hummingbird-printed-t-shirt.png);
+
+
+/* Juguete Huesito */
+
+position: absolute;
+width: 112.37px;
+height: 18.97px;
+left: 739.93px;
+top: 988.86px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 18px;
+
+color: #3C2313;
+
+
+
+/* $650 */
+
+position: absolute;
+width: 34.61px;
+height: 18.06px;
+left: 779.41px;
+top: 1006.92px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 18px;
+
+color: #F0A83E;
+
+
+
+/* Comedero */
+
+position: absolute;
+width: 264px;
+height: 312px;
+left: 380px;
+top: 720px;
+
+
+
+/* Rectangle 8 */
+
+position: absolute;
+width: 264px;
+height: 312px;
+left: 380px;
+top: 720px;
+
+background: #FBFAF6;
+
+
+/* Comedero para perro */
+
+position: absolute;
+width: 159.97px;
+height: 19.64px;
+left: 440.41px;
+top: 986.86px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 18px;
+
+color: #3C2313;
+
+
+
+/* $250 */
+
+position: absolute;
+width: 39.15px;
+height: 19.64px;
+left: 500.81px;
+top: 1004.91px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 18px;
+
+color: #F0A83E;
+
+
+
+/* comedero */
+
+position: absolute;
+width: 262.03px;
+height: 266.86px;
+left: 381.97px;
+top: 720px;
+
+background: url(mug-the-best-is-yet-to-come.png);
+
+
+/* Churrasquito */
+
+position: absolute;
+width: 265px;
+height: 312px;
+left: 95px;
+top: 720px;
+
+
+
+/* Rectangle 7 */
+
+position: absolute;
+width: 265px;
+height: 312px;
+left: 95px;
+top: 720px;
+
+background: #FBFAF6;
+
+
+/* churrasquito */
+
+position: absolute;
+width: 265px;
+height: 268.86px;
+left: 95px;
+top: 720px;
+
+background: url(hummingbird-vector-graphics.png);
+
+
+/* Juguete Churrasquito */
+
+position: absolute;
+width: 160.54px;
+height: 19.64px;
+left: 146.68px;
+top: 988.86px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 18px;
+
+color: #3C2313;
+
+
+
+/* $150 */
+
+position: absolute;
+width: 38.49px;
+height: 19.64px;
+left: 208.26px;
+top: 1006.92px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 18px;
+
+color: #F0A83E;
+
+
+
+/* Productos Destacados */
+
+position: absolute;
+width: 406px;
+height: 47px;
+left: 309px;
+top: 586px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 40px;
+line-height: 47px;
+/* identical to box height */
+
+color: #3C2313;
+
+
+
+/* Links */
+
+position: absolute;
+width: 267px;
+height: 18px;
+left: 380px;
+top: 653px;
+
+
+
+/* Comederos */
+
+position: absolute;
+width: 78px;
+height: 18px;
+left: 380px;
+top: 653px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 18px;
+/* identical to box height */
+
+color: #666666;
+
+
+
+/* Accesorios */
+
+position: absolute;
+width: 75px;
+height: 18px;
+left: 489px;
+top: 653px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 18px;
+/* identical to box height */
+
+color: #666666;
+
+
+
+/* Comida */
+
+position: absolute;
+width: 52px;
+height: 18px;
+left: 595px;
+top: 653px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 18px;
+/* identical to box height */
+
+color: #666666;
+
+
+
+/* - */
+
+position: absolute;
+width: 5px;
+height: 18px;
+left: 471px;
+top: 653px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 18px;
+/* identical to box height */
+
+color: #666666;
+
+
+
+/* - */
+
+position: absolute;
+width: 5px;
+height: 18px;
+left: 577px;
+top: 653px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 18px;
+/* identical to box height */
+
+color: #666666;
+
+
+
+/* Slide */
+
+position: absolute;
+width: 1024px;
+height: 409px;
+left: 0px;
+top: 81px;
+
+
+
+/* foto */
+
+position: absolute;
+width: 1024px;
+height: 409px;
+left: 0px;
+top: 81px;
+
+
+
+/* Rectangle 4 */
+
+position: absolute;
+width: 1024px;
+height: 409px;
+left: calc(50% - 1024px/2);
+top: 81px;
+
+background: url(bowl-and-pet-daities-on-green-background.jpg);
+
+
+/* bowl-and-pet-daities-on-green-background 1 */
+
+position: absolute;
+width: 1025px;
+height: 409px;
+left: calc(50% - 1025px/2 + 0.5px);
+top: 81px;
+
+background: url(bowl-and-pet-daities-on-green-background.jpg);
+
+
+/* btn comederos */
+
+position: absolute;
+width: 141px;
+height: 49px;
+left: 767px;
+top: 334px;
+
+
+
+/* Rectangle 6 */
+
+position: absolute;
+width: 141px;
+height: 49px;
+left: 767px;
+top: 334px;
+
+background: #F0A83E;
+border-radius: 5px;
+
+
+/* COMEDEROS */
+
+position: absolute;
+width: 95px;
+height: 19px;
+left: 790px;
+top: 349px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Es un placer tenerte aquí */
+
+position: absolute;
+width: 365px;
+height: 85px;
+left: 648px;
+top: 237px;
+
+
+
+/* Rectangle 5 */
+
+position: absolute;
+width: 365px;
+height: 54px;
+left: 648px;
+top: 237px;
+
+background: #FFFFFF;
+border-radius: 5px;
+
+
+/* ¡Comederos en descuento! */
+
+position: absolute;
+width: 190px;
+height: 19px;
+left: 740px;
+top: 303px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+text-align: center;
+
+color: #3C2313;
+
+
+
+/* ¡Es un placer tenerte aquí! */
+
+position: absolute;
+width: 345px;
+height: 35px;
+left: 658px;
+top: 246px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 35px;
+text-align: center;
+
+color: #3C2313;
+
